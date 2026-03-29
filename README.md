@@ -2,6 +2,8 @@
 
 ## 📌 Overview
 This project analyzes driving data to detect unsafe driving behavior using sensor data such as acceleration and gyroscope readings.
+The raw data was downloaded from Kaggle, you can have a look at the sensor data in 
+-data/raw/carla_driver_data.csv
 
 Version 1 focuses on identifying:
 - ⚠️ Harsh Braking
@@ -39,3 +41,8 @@ driver-behaviour-analysis/
 │
 └── README_v1.0.md
 ```
+---
+#### Note - This is a project i have taken to deepen my python and frameworks knowledge.
+# REMEMBER - THE BEST WAY TO LEARN SOMETHING, IS BY DOING SOMETHING
+---
+HAVE A NICE DAY
