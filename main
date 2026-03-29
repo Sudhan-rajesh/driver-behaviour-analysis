@@ -1,0 +1,29 @@
+[33mcommit 23be3ef4af137733f9b4397778beb890d56e2343[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Sudhan-rajesh <sudhanvrajesh@gmail.com>
+Date:   Sun Mar 29 16:38:24 2026 +0200
+
+    rename README to main README
+
+[33mcommit 6bfe90d08477d93d72edb4ebdaebe5f0690e38f6[m
+Author: Sudhan-rajesh <sudhanvrajesh@gmail.com>
+Date:   Sun Mar 29 16:35:05 2026 +0200
+
+     update README for v1.0
+
+[33mcommit fba526703ecd422d73a8227f86a22aaa40d2a984[m
+Author: Sudhan-rajesh <sudhanvrajesh@gmail.com>
+Date:   Sun Mar 29 16:25:22 2026 +0200
+
+    minor update
+
+[33mcommit 61f67fdb758c2de39d786f9ea00539c008d71dec[m
+Author: Sudhan-rajesh <sudhanvrajesh@gmail.com>
+Date:   Sun Mar 29 16:13:58 2026 +0200
+
+    v1: driver behaviour detection (braking + acceleration)
+
+[33mcommit 6348edb1953edcd55607c54f3d8abf65da8db589[m
+Author: Sudhan Rajesh <sudhanvrajesh@gmail.com>
+Date:   Sun Mar 29 16:17:26 2026 +0200
+
+    Initial commit
