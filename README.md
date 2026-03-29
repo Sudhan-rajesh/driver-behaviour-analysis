@@ -43,7 +43,7 @@ driver-behaviour-analysis/
 └── README_v1.0.md
 ```
 ---
-#### Note - This is a project i have taken to deepen my python and frameworks knowledge.
+#### Note - This is a project I have taken to deepen my python and frameworks knowledge.
 # REMEMBER - THE BEST WAY TO LEARN SOMETHING, IS BY DOING SOMETHING
 ---
 HAVE A NICE DAY
