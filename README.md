@@ -26,6 +26,7 @@ Version 1 focuses on identifying:
 
 ## 📂 Project Structure
 driver-behaviour-analysis/
+```
 │
 ├── data/
 │ ├── raw/ # Input CSV files
@@ -35,3 +36,4 @@ driver-behaviour-analysis/
 │ └── main.py # Main analysis script
 │
 └── README_v1.0.md
+```
