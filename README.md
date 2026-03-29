@@ -7,6 +7,8 @@ Version 1 focuses on identifying:
 - ⚠️ Harsh Braking
 - ⚡ Harsh Acceleration
 
+### Version 2 is still on the works and will be updated very soon
+
 ---
 
 ## 🧠 How it works
